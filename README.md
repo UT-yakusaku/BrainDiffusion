@@ -1,5 +1,10 @@
 # BrainDiffusion
 
+
+https://github.com/UT-yakusaku/BrainDiffusion/assets/34576921/44785ee4-45b6-4b41-bed0-068f79a82b7a
+
+
+
 ## Setup
 Copy and place `ldm` directory from https://github.com/CompVis/stable-diffusion in the main directory. </br>
 Download and place the desired diffusion model to the models directory. Change the `path.model` in `configs/main_cfg.yaml`. </br>
