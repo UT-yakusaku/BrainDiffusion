@@ -2,7 +2,11 @@ Sure, here is a revised version of the README file for the BrainDiffusion reposi
 
 # BrainDiffusion
 
-[![BrainDiffusion](https://github.com/UT-yakusaku/BrainDiffusion/assets/34576921/44785ee4-45b6-4b41-bed0-068f79a82b7a)](https://github.com/UT-yakusaku/BrainDiffusion)
+
+
+https://github.com/UT-yakusaku/BrainDiffusion/assets/34576921/f94e9f1d-4859-4384-8523-6ae7059b4e13
+
+
 
 ## Setup
 1. Copy and place the `ldm` directory from [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) into the main directory.
