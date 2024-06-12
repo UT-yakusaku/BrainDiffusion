@@ -1,0 +1,7 @@
+path:
+  model: ./models/path_to_model
+  data: ./data/rat_lfp.npy
+  output: ./outputs
+  inference_config: ./configs/v1-inference.yaml
+data:
+  fs: 30000
