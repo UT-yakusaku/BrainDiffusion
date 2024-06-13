@@ -3,8 +3,7 @@ Sure, here is a revised version of the README file for the BrainDiffusion reposi
 # BrainDiffusion
 
 
-
-https://github.com/UT-yakusaku/BrainDiffusion/assets/34576921/f94e9f1d-4859-4384-8523-6ae7059b4e13
+[https://github.com/UT-yakusaku/BrainDiffusion/assets/34576921/f94e9f1d-4859-4384-8523-6ae7059b4e13](https://github.com/UT-yakusaku/BrainDiffusion/blob/main/assets/example_video_10MB.mp4)
 
 
 
