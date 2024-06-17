@@ -3,5 +3,7 @@ path:
   data: ./data/rat_lfp.npy
   output: ./outputs
   inference_config: ./configs/v1-inference.yaml
+param:
+  temp_res: 1
 data:
-  fs: 30000
+  fs: 3000
