@@ -18,11 +18,10 @@ def main(cfg):
 
     # preprocess data
     bin_len = 512
-    steps = 5
 
     for i in range(data.shape[0]):
         if data[i:i+512].shape[0] == bin_len:
-            data_shifted = np.array(data[i*steps:i*steps+512]).reshape(-1)
+            data_shifted = np.array(data[i*cfg.param.temp_res:i*cfg.param.temp_res+512]).reshape(-1)
 
             img = generate(data_shifted, model, ddim_steps=5)
             img.save(f"./outputs/image_{i:04d}.png")
