@@ -1,4 +1,4 @@
-Sure, here is a revised version of the README file for the BrainDiffusion repository:
+This is the code for a paper titiled "Diffusion model-based image generation from rat brain activity".
 
 # BrainDiffusion
 
