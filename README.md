@@ -9,8 +9,9 @@ https://github.com/UT-yakusaku/BrainDiffusion/assets/34576921/c4e90dd7-ec2a-4032
 
 
 ## Hardware requirements
-A single GPU with 4 GB of VRAM or more is generally sufficient to handle models and input data, and 16 GB of RAM is typically adequate for inference tasks. 
-Training a model requires substantial computational power, memory, and storage. High-memory capacity GPUs, such as NVIDIA A100, A6000, V100, RTX 3090, or RTX 4090, are recommended. Each GPU should have at least 16 GB of VRAM, with 32 GB or more preferable for handling larger models and batches. Additionally, to handle the large datasets required for training, at least 64 GB of RAM is recommended, with 128 GB or more being ideal.
+A single GPU with 4 GB of VRAM or more is generally sufficient to handle models and input data, and 16 GB of RAM is typically adequate for running inference tasks implemented in this pipeline.
+
+If you want to train your own model, it will require substantial computational power, memory, and storage. High-memory capacity GPUs, such as NVIDIA A100, A6000, V100, RTX 3090, or RTX 4090, are recommended. Each GPU should have at least 16 GB of VRAM, with 32 GB or more preferable for handling larger models and batches. Additionally, to handle the large datasets required for training, at least 64 GB of RAM is recommended, with 128 GB or more being ideal.
 
 ## Setup
 1. Copy and place the `ldm` directory from [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) into the main directory.
