@@ -1,4 +1,4 @@
-This is the code for a paper titiled "Diffusion model-based image generation from rat brain activity".
+This is the code for a paper, "Diffusion model-based image generation from rat brain activity".
 
 # BrainDiffusion
 
